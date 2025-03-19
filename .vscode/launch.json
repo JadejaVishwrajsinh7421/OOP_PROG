@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ps10",
+            "request": "launch",
+            "mainClass": "ps10",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps09",
+            "request": "launch",
+            "mainClass": "ps09",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "User",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps01",
+            "request": "launch",
+            "mainClass": "ps01",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps02",
+            "request": "launch",
+            "mainClass": "ps02",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps03",
+            "request": "launch",
+            "mainClass": "ps03",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps04",
+            "request": "launch",
+            "mainClass": "ps04",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps05",
+            "request": "launch",
+            "mainClass": "ps05",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps06",
+            "request": "launch",
+            "mainClass": "ps06",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "q1",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "q2",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "q3",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "q4",
+            "request": "launch",
+            "mainClass": "q4",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "q5",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "q6",
+            "request": "launch",
+            "mainClass": "q6",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "q7",
+            "request": "launch",
+            "mainClass": "q7",
+            "projectName": "JAVA_Lab_bee54a0a"
+        }
+    ]
+}
