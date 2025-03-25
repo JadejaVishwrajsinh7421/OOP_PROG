@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ps17",
+            "request": "launch",
+            "mainClass": "ps17",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps16",
+            "request": "launch",
+            "mainClass": "ps16",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps15",
+            "request": "launch",
+            "mainClass": "ps15",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps14",
+            "request": "launch",
+            "mainClass": "ps14",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps12",
+            "request": "launch",
+            "mainClass": "ps12",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps11",
+            "request": "launch",
+            "mainClass": "ps11",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
             "name": "ps10",
             "request": "launch",
             "mainClass": "ps10",
