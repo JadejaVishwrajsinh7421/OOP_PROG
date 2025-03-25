@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ps26",
+            "request": "launch",
+            "mainClass": "ps26",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
             "name": "ps17",
             "request": "launch",
             "mainClass": "ps17",
