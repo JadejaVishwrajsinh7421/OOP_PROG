@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "a4",
+            "request": "launch",
+            "mainClass": "DU_LAB.lab11.a4",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "ps27",
+            "request": "launch",
+            "mainClass": "ps27",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
             "name": "a12",
             "request": "launch",
             "mainClass": "a12",
