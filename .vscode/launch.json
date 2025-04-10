@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ps29",
+            "request": "launch",
+            "mainClass": "ps29",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
+            "name": "StringMethods",
+            "request": "launch",
+            "mainClass": "StringMethods",
+            "projectName": "JAVA_Lab_bee54a0a"
+        },
+        {
+            "type": "java",
             "name": "a4",
             "request": "launch",
             "mainClass": "DU_LAB.lab11.a4",
